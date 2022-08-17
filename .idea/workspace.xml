@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2641d91d-ce81-493f-a314-933fa3dd4506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CURSO JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/AreaCirc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/AreaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/DataTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" afterDir="false" />
+    <list default="true" id="2641d91d-ce81-493f-a314-933fa3dd4506" name="Changes" comment="Curso-Java&#10;Classes e métodos">
+      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ValorNulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ValorVsReferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classe/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classe/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2DRLLSlwSJoK9ZzbTkkK6mFFgJf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,16 +47,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "full.screen.before.presentation.mode": "true",
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AreaTeste">
-    <configuration name="AreaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.AreaTeste" />
+  <component name="RunManager" selected="Application.Jantar">
+    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.DataTeste" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classe.*" />
+          <option name="PATTERN" value="classe.Desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.DataTeste" />
+    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.Desafio.Jantar" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classe.*" />
+          <option name="PATTERN" value="classe.Desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,7 +83,33 @@
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classe.*" />
+          <option name="PATTERN" value="classe.Desafio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValorNulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.ValorNulo" />
+      <module name="CURSO JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classe.Desafio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValorVsReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.ValorVsReferencia" />
+      <module name="CURSO JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classe.Desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +119,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AreaTeste" />
+        <item itemvalue="Application.Jantar" />
+        <item itemvalue="Application.ValorNulo" />
         <item itemvalue="Application.DataTeste" />
+        <item itemvalue="Application.ValorVsReferencia" />
         <item itemvalue="Application.ProdutoTeste" />
       </list>
     </recent_temporary>
@@ -109,6 +137,7 @@
       <updated>1660656904586</updated>
       <workItem from="1660656905936" duration="1578000" />
       <workItem from="1660659122836" duration="10086000" />
+      <workItem from="1660740118712" duration="8398000" />
     </task>
     <servers />
   </component>
@@ -125,5 +154,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Curso-Java&#10;Classes e métodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso-Java&#10;Classes e métodos" />
   </component>
 </project>
