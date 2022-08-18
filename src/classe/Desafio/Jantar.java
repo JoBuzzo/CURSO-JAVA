@@ -7,11 +7,11 @@ public class Jantar {
 
         Pessoa p1 = new Pessoa("Joao", 75.9);
 
-        System.out.println(p1.apresentar());
+        System.out.println("Antes de comer \n"+p1.apresentar()+"\n");
         p1.comer(c1);
         p1.comer(c2);
 
-        System.out.println(p1.apresentar());
+        System.out.println("Depois de comer \n"+p1.apresentar());
 
     }
 }
