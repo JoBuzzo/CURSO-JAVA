@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2641d91d-ce81-493f-a314-933fa3dd4506" name="Changes" comment="Curso-Java&#10;Classes e métodos">
-      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/ValorNulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/ValorVsReferencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/classe/AreaCirc.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classe/AreaTeste.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classe/Data.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classe/DataTeste.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classe/Produto.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classe/ProdutoTeste.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,12 +43,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Project.color": "0d4151",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "full.screen.before.presentation.mode": "true",
-    "settings.editor.selected.configurable": "Errors"
+    "settings.editor.selected.configurable": "yiiguxing.plugin.translate"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Jantar">
@@ -138,6 +140,10 @@
       <workItem from="1660656905936" duration="1578000" />
       <workItem from="1660659122836" duration="10086000" />
       <workItem from="1660740118712" duration="8398000" />
+      <workItem from="1660765677617" duration="332000" />
+      <workItem from="1660766020484" duration="306000" />
+      <workItem from="1660766337289" duration="1363000" />
+      <workItem from="1660767720718" duration="195000" />
     </task>
     <servers />
   </component>
@@ -158,5 +164,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Curso-Java&#10;Classes e métodos" />
     <option name="LAST_COMMIT_MESSAGE" value="Curso-Java&#10;Classes e métodos" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
