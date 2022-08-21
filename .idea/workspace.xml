@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2641d91d-ce81-493f-a314-933fa3dd4506" name="Changes" comment="Curso-Java&#10;Classes e métodos">
+      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ValorNulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ValorVsReferencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classe/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classe/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +51,47 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Project.color": "0d4151",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
     "full.screen.before.presentation.mode": "true",
-    "settings.editor.selected.configurable": "yiiguxing.plugin.translate"
+    "settings.editor.selected.configurable": "Errors"
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Jantar">
-    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.DataTeste" />
+}</component>
+  <component name="RunManager" selected="Application.Matriz">
+    <configuration name="DesafioArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.DesafioArray" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classe.Desafio.*" />
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Exercicio" />
+      <module name="CURSO JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Foreach" />
+      <module name="CURSO JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,38 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.ProdutoTeste" />
+    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Matriz" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classe.Desafio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValorNulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.ValorNulo" />
-      <module name="CURSO JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classe.Desafio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValorVsReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.ValorVsReferencia" />
-      <module name="CURSO JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classe.Desafio.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matriz" />
+        <item itemvalue="Application.DesafioArray" />
+        <item itemvalue="Application.Foreach" />
+        <item itemvalue="Application.Exercicio" />
         <item itemvalue="Application.Jantar" />
-        <item itemvalue="Application.ValorNulo" />
-        <item itemvalue="Application.DataTeste" />
-        <item itemvalue="Application.ValorVsReferencia" />
-        <item itemvalue="Application.ProdutoTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -140,11 +146,15 @@
       <workItem from="1660656905936" duration="1578000" />
       <workItem from="1660659122836" duration="10086000" />
       <workItem from="1660740118712" duration="8398000" />
-      <workItem from="1660765677617" duration="332000" />
-      <workItem from="1660766020484" duration="306000" />
-      <workItem from="1660766337289" duration="1363000" />
-      <workItem from="1660767720718" duration="195000" />
     </task>
+    <task id="LOCAL-00001" summary="Curso-Java&#10;Classes e métodos finalizado">
+      <created>1660755584936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660755584936</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,9 +174,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Curso-Java&#10;Classes e métodos" />
     <option name="LAST_COMMIT_MESSAGE" value="Curso-Java&#10;Classes e métodos" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
