@@ -25,7 +25,7 @@ public class Matriz {
                 soma+= notas[i][j];
             }
             double media = soma / qtdeNota;
-            System.out.println("\nO aluno: "+(i+1)+" obteve a media: "+media+"\n");
+            System.out.println("\nO aluno("+(i+1)+") obteve a media: "+media+"\n");
         }
 
     }

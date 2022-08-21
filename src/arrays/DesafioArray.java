@@ -15,7 +15,7 @@ public class DesafioArray {
 
         double soma = 0;
         for (int i = 0; i < notas.length; i++){
-            System.out.print("A nota do "+ (i+ 1) +" bimestre: ");
+            System.out.print("A nota do "+ (i+ 1) +" semestre: ");
             notas[i] = teclado.nextDouble();
 
             soma += notas[i];

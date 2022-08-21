@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2641d91d-ce81-493f-a314-933fa3dd4506" name="Changes" comment="Curso-Java&#10;Classes e métodos">
-      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/Desafio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/ValorNulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/ValorVsReferencia.java" afterDir="false" />
+    <list default="true" id="20c45eea-2f03-4fac-a9fb-83e093939121" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoBaguncado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoComportado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Mapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/DesafioArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/DesafioArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/Matriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Matriz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +33,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/classe/AreaCirc.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/classe/AreaTeste.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/classe/Data.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/classe/DataTeste.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/classe/Produto.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/classe/ProdutoTeste.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/arrays/Matriz.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="2DRLLSlwSJoK9ZzbTkkK6mFFgJf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2DfkYrLp0HYKPf0fRg0EkpYjN23" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -51,21 +48,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Project.color": "0d4151",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "true",
-    "settings.editor.selected.configurable": "Errors"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Matriz">
-    <configuration name="DesafioArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.DesafioArray" />
+}]]></component>
+  <component name="RunManager" selected="Application.Hash">
+    <configuration name="ConjuntoComportado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.ConjuntoComportado" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Exercicio" />
+    <configuration name="Fila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Fila" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Foreach" />
+    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Hash" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.Desafio.Jantar" />
+    <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Mapa" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classe.Desafio.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Matriz" />
+    <configuration name="Pilha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Pilha" />
       <module name="CURSO JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,34 +124,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Matriz" />
-        <item itemvalue="Application.DesafioArray" />
-        <item itemvalue="Application.Foreach" />
-        <item itemvalue="Application.Exercicio" />
-        <item itemvalue="Application.Jantar" />
+        <item itemvalue="Application.Hash" />
+        <item itemvalue="Application.Mapa" />
+        <item itemvalue="Application.Pilha" />
+        <item itemvalue="Application.Fila" />
+        <item itemvalue="Application.ConjuntoComportado" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2641d91d-ce81-493f-a314-933fa3dd4506" name="Changes" comment="" />
-      <created>1660656904586</created>
+      <changelist id="20c45eea-2f03-4fac-a9fb-83e093939121" name="Changes" comment="" />
+      <created>1661097579213</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660656904586</updated>
-      <workItem from="1660656905936" duration="1578000" />
-      <workItem from="1660659122836" duration="10086000" />
-      <workItem from="1660740118712" duration="8398000" />
+      <updated>1661097579213</updated>
+      <workItem from="1661097580731" duration="5493000" />
+      <workItem from="1661115075528" duration="7037000" />
     </task>
-    <task id="LOCAL-00001" summary="Curso-Java&#10;Classes e métodos finalizado">
-      <created>1660755584936</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1660755584936</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,8 +159,8 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Curso-Java&#10;Classes e métodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curso-Java&#10;Classes e métodos" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
