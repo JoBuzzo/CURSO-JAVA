@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20c45eea-2f03-4fac-a9fb-83e093939121" name="Changes" comment="Módulo Array e Collections completo" />
+    <list default="true" id="20c45eea-2f03-4fac-a9fb-83e093939121" name="Changes" comment="Update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/arrays/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CompraTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/ClienteTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Produto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Project.color": "0d4151",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;0d4151&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Hash">
     <configuration name="ConjuntoComportado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.ConjuntoComportado" />
@@ -128,6 +144,14 @@
       <workItem from="1661097580731" duration="5493000" />
       <workItem from="1661115075528" duration="7037000" />
     </task>
+    <task id="LOCAL-00001" summary="Update workspace.xml">
+      <created>1663988236454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663988236455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +167,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
